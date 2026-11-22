@@ -47,7 +47,7 @@
 ### Windows（MinGW-w64）
 
 ```powershell
-git clone https://github.com/<your-name>/snippet-manager.git
+git clone https://github.com/Shinece1/snippet-manager.git
 cd snippet-manager
 
 cmake -S . -B build -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release
