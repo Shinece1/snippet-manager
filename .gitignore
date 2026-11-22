@@ -1,0 +1,29 @@
+# Build output
+build/
+build-*/
+.build/
+.build-*/
+out/
+bin/
+CMakeUserPresets.json
+
+# Local scratch / verification
+.research/
+.tmp/
+.run/
+.test/
+.dshwolf/
+
+# IDE / OS
+.vscode/
+.idea/
+.vs/
+*.user
+.DS_Store
+Thumbs.db
+
+# Runtime databases and logs
+*.db
+*.db-shm
+*.db-wal
+*.log
