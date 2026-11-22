@@ -7,6 +7,7 @@
 ![SDL2](https://img.shields.io/badge/SDL2-2.30.9-1B4F72)
 ![SQLite](https://img.shields.io/badge/SQLite-3.46.1%20%2B%20FTS5-003B57)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-4B5563)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ![界面预览](docs/preview.png)
 
@@ -240,4 +241,6 @@ exe 没有数字签名，Windows 会显示安全警告。点“运行”即可�
 
 ## License
 
-本项目当前未附带开源协议，默认保留所有权利。如果你计划公开发布并允许他人复用，建议添加 MIT 或 Apache-2.0 许可证，并在仓库根目录放置 `LICENSE` 文件。
+本项目采用 [MIT License](LICENSE) 发布。
+
+Copyright (c) 2026 Shinece
